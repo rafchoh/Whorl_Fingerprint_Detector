@@ -1,0 +1,3 @@
+C:\Users\rafch\OneDrive\Desktop\CircularFingerprintDetector\x64\Debug\CircularFingerprintDetector.exe
+E:\Lectures\(Master) Computer Systems and Technologies\1 Semester\01. (КЗ) Kompyutarno zrenie\Kursowa\CircularFingerprintDetector\x64\Debug\CircularFingerprintDetector.exe
+E:\Lectures\(Master) Computer Systems and Technologies\1 Semester\Kursovi Zadachi\CV_Project\CircularFingerprintDetector\x64\Debug\CircularFingerprintDetector.exe

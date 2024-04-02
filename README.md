@@ -1,2 +1,2 @@
 # Whorl_Fingerprint_Detector
-Detect whorl fingerprints after fine tuning some values!
+Detect whorl fingerprints using OpenCV after fine tuning some values!
